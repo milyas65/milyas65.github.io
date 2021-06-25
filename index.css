@@ -15,5 +15,11 @@ table, td {border:2px solid white;
     margin-left: auto;
     margin-right: auto;}
 caption {font-family: 'Courier New';color:white;font-size: 20pt;}
+h2.nempel {position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;}
 h2, ol {color:white}
 p.alinea {color:white; text-indent: 25px;text-align: justify;}
