@@ -5,7 +5,8 @@ font-size: 60px;color:darkslateblue;}
     color:whitesmoke; font-size: 20pt;}
 img {width:60%;}
 div {width:60%; padding:10px; border:5px solid #ffb8ff; 
-    margin-left:auto ;margin-right:auto ;color: white ;text-align:center;}
+    margin-left:auto ;margin-right:auto ;color: white ;
+    text-align:center;background-color:#7a0099;}
 table, td {border:2px solid white; 
     border-collapse: collapse;
     padding: 3px;
