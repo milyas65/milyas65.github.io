@@ -17,7 +17,7 @@ table, td {border:2px solid white;
 caption {font-family: 'Courier New';color:white;font-size: 20pt;}
 h2.nempel {position: -webkit-sticky;
   position: sticky;
-  top: 0;
+  top: 0; color:black;
   padding: 5px;
   background-color: #cae8ca;
   border: 2px solid #4CAF50;}
