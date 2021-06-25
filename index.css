@@ -13,4 +13,4 @@ table, td {border:2px solid white;
     margin-right: auto;}
 caption {font-family: 'Courier New';color:white;font-size: 20pt;}
 h2, ol {color:white}
-.alinea {color:white; text-indent: 25px;text-align: justify;}
+p.alinea {color:white; text-indent: 25px;text-align: justify;}
