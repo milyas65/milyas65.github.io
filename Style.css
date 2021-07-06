@@ -1,11 +1,19 @@
-body {background-color:lightCyan ;}
+body {background-color:#002b80 ;}
 #Belajar {text-align: center;font-family: verdana;background-color: white;
 font-size: 60px;color:rgb(9, 83, 83);}
 #foto {text-align: center;font-family:'Courier New';
     color:whitesmoke; font-size: 20pt;}
+img {width:60%;}
 #kontaminasi {width:60%; padding:10px; border:5px solid #ffb8ff; 
     margin-left:auto ;margin-right:auto ;color: white ;
     text-align:center;background-color:#7a0099;}
+table, td {border:2px solid white; 
+    border-collapse: collapse;
+    padding: 3px;
+    font-family: arial;
+    color: wheat;
+    margin-left: auto;
+    margin-right: auto;}
 caption {font-family: 'Courier New';color:white;font-size: 20pt;}
 h2.nempel {position: -webkit-sticky;
   position: sticky;
