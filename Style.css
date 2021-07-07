@@ -1,26 +1,26 @@
-body {background-color:#002b80 ;}
+body {background-color:LightCyan ;}
 #Belajar {text-align: center;font-family: verdana;background-color: white;
 font-size: 60px;color:rgb(9, 83, 83);}
 #foto {text-align: center;font-family:'Courier New';
-    color:whitesmoke; font-size: 20pt;}
+    color:black; font-size: 20pt;}
 img {width:60%;}
 #kontaminasi {width:60%; padding:10px; border:5px solid #ffb8ff; 
     margin-left:auto ;margin-right:auto ;color: white ;
     text-align:center;background-color:#7a0099;}
-table, td {border:2px solid white; 
+table, td {border:1px solid grey; 
     border-collapse: collapse;
     padding: 3px;
     font-family: arial;
-    color: wheat;
+    color: black;
     margin-left: auto;
     margin-right: auto;}
-caption {font-family: 'Courier New';color:white;font-size: 20pt;}
+caption {font-family: 'Courier New';color:black;font-size: 20pt;}
 h2.nempel {position: -webkit-sticky;
   position: sticky;
   top: 10px; color:black;
   padding: 5px;
   background-color: #cae8ca;
   border: 2px solid #4CAF50;}
-ol {color:white}
-p.alinea {color:white; text-indent: 25px;text-align: justify;}
+ol {color:black}
+p.alinea {color:black; text-indent: 25px;text-align: justify;}
 footer {background-color:#595959}
