@@ -1,9 +1,6 @@
 body {background-color:LightCyan ;}
 #Belajar {text-align: center;font-family: verdana;background-color: white;
 font-size: 60px;color:rgb(9, 83, 83);}
-#foto {text-align: center;font-family:'Courier New';
-    color:black; font-size: 20pt;}
-img {width:60%;}
 #kontaminasi {width:60%; padding:10px; border:5px solid #ffb8ff; 
     margin-left:auto ;margin-right:auto ;color: white ;
     text-align:center;background-color:#7a0099;}
