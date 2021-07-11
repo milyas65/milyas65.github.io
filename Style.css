@@ -1,6 +1,6 @@
 .jumbotron {
     position: relative;
-    background:rgb(248, 248, 255) url("mit_university_large_header_banner.jpg") center center;
+    background:rgb(255, 255, 255) url("mit_university_large_header_banner.jpg") center center;
     width: 100%;
     height: 100%;
     background-size: cover;
