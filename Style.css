@@ -1,11 +1,10 @@
 .jumbotron {
     position: relative;
-    background:url("mit_university_large_header_banner.jpg") center center;
+    background:url("mit_university_large_header_banner.jpg") opacity: 0.6 center center;
     width: 100%;
     height: 100%;
     background-size: cover;
-    overflow: hidden;
-    opacity: 0.6;}
+    overflow: hidden;}
 body {background-color:LightCyan ;}
 #Belajar {text-align: center;font-family: verdana;background-color: white;
 font-size: 60px;color:rgb(9, 83, 83);}
